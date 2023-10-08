@@ -37,7 +37,7 @@ I still remember two specific lessons I learned when I started doing algorithms 
   Originally, when I was getting a failed test, I sort of tried to add more code to my program to
   make it pass. At some point I realized that this is going nowhere, and then I changed my workflow
   to first try to _remove_ as much code as I can, and only then investigate the problematic test
-  case (which with time morphed into a skill of not writing more code then necessary in the first
+  case (which with time morphed into a skill of not writing more code than necessary in the first
   place).
 
 : Single source of truth is good
